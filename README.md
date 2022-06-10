@@ -1,4 +1,6 @@
 <img src="cover.png" width="200" align="right" />
+Learning for
+By CJ
 
 # JavaScript Everywhere Web Application 
 
